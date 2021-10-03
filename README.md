@@ -1,2 +1,2 @@
 # ChickenGame
-Keep the Chicken with you!
+Keep the Chicken with you! (or die.)

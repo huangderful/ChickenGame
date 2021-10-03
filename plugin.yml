@@ -1,0 +1,9 @@
+name: protectChicken
+version: 1.0
+api-version: 1.16 
+main: me.protectChicken.main.Main
+description: sure
+
+commands:
+  chickMe:
+    description: yeah
